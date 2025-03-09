@@ -1,7 +1,6 @@
 # Hey 👋, I'm Siddhant!
 
-I'm currently working as a Software Developer at Xcaliber Infotech and have been coding since 2019. I have been highly active in the frontend community, particularly in React, and have a strong passion for solving Data Structures and Algorithms problems. Check out my LeetCode profile! 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Material UI" width="20" height="20"/>
+I'm currently working as a Software Developer at Xcaliber Infotech and have been coding since 2019. I have been highly active in the frontend community, particularly in React, and have a strong passion for solving Data Structures and Algorithms problems.
 
 ## Technical Skills
 
@@ -23,8 +22,7 @@ I'm currently working as a Software Developer at Xcaliber Infotech and have been
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="JEST" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
@@ -38,7 +36,7 @@ I'm currently working as a Software Developer at Xcaliber Infotech and have been
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -57,6 +55,9 @@ I'm currently working as a Software Developer at Xcaliber Infotech and have been
 
 ## Connect with me:
 <p align="left">
+  <a href="https://leetcode.com/u/siddhants8019/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Material UI" width="30" height="40"/>
+  </a>
   <a href="https://www.linkedin.com/in/siddhantsahare/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:siddhants8019@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://medium.com/@siddhants8019" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" height="30" width="40" /></a>
