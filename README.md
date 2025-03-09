@@ -1,7 +1,7 @@
 # Hey 👋, I'm Siddhant!
 
 I'm currently working as a Software Developer at Xcaliber Infotech and have been coding since 2019. I have been highly active in the frontend community, particularly in React, and have a strong passion for solving Data Structures and Algorithms problems. Check out my LeetCode profile! 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Material UI" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Material UI" width="20" height="20"/>
 
 ## Technical Skills
 
